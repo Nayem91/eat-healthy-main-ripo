@@ -1,0 +1,51 @@
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px ;
+    border-radius: 20px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.flexible{
+    display: flex;
+
+   
+}
+h1{
+    font-size: 50px;
+}
+.bg{
+    background-image:url(7.png)
+}
+.r{
+    text-align: center;
+}
+.Recipie{
+    padding:2px;
+    border-left: 10px;
+    border: 10px solid #F0E68C;
+    border-radius: 30px;
+    border-width: 10px;
+    box-shadow: border:10px;
+}
+#pc1{
+    width:100%;
+}
+#pc2{
+    width: 100%;
+} 
+.finish{
+    display: flex;
+    padding-left: 100px;
+}
+.f{
+    width: 33%;
+    padding-left: 20px;
+}
